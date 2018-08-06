@@ -1,3 +1,7 @@
 Hello buddy
 
+<<<<<<< HEAD
 The training is in Tai infotech.
+=======
+I am in training
+>>>>>>> a53e9b4e8414929645c730eb4401ce5cbb26068a
